@@ -1,0 +1,492 @@
+{
+  "tissues": [
+     {
+       "name": "Puffs Ultra Soft Non-Lotion Tissues, 10 Cubes, 56 Tissues Per Box",
+       "price": "13.12",
+       "link": "https://www.amazon.com/Puffs-Ultra-Non-Lotion-Tissues-Cubes/dp/B09YL81PWH/ref=sr_1_7?crid=1IVQWTCQEA8BV&keywords=tissues&qid=1700883501&sprefix=tissue%2Caps%2C88&sr=8-7",
+       "picture": "https://m.media-amazon.com/images/I/61dpAWz1muL._AC_UL320_.jpg",
+       "source": "amazon",
+       "sales": 12 
+     },
+
+     {
+       "name": "Kleenex Expressions Ultra Soft Facial Tissues, 8 Flat Boxes, 120 Tissues per Box, 3-Ply, Packaging May Vary",
+       "price": "14.61",
+       "link": "https://www.amazon.com/Kleenex-Expressions-Facial-Tissues-Tissue/dp/B09N9WGLTC/ref=sr_1_9?crid=1IVQWTCQEA8BV&keywords=tissues&qid=1700885218&sprefix=tissue%2Caps%2C88&sr=8-9",
+       "picture": "https://m.media-amazon.com/images/I/81X0Jc-jceL._AC_UL320_.jpg",
+       "source": "amazon",
+       "sales": 4
+     },
+
+     {
+       "name": "Kleenex Ultra Soft Facial Tissues, 4 Cube Boxes, 60 Tissues per Box, 3-Ply (240 Total Tissues), Packaging May Vary",
+       "price": "6.58",
+       "link": "https://www.amazon.com/Kleenex-Ultra-Facial-Tissue-Tissues/dp/B09M5XF6JV/ref=sr_1_21?crid=1IVQWTCQEA8BV&keywords=tissues&qid=1700885218&sprefix=tissue%2Caps%2C88&sr=8-21", 
+       "picture": "https://m.media-amazon.com/images/I/81JGJqcDJRL._AC_UL320_.jpg",
+       "source": "amazon",
+       "sales": 15
+     },
+
+     {
+       "name": "Kleenex Ultra Soft Facial Tissues, 4 Cube Boxes, 60 Tissues per Box, 3-Ply (240 Total Tissues), Packaging May Vary",
+       "price": "18.33",
+       "link": "https://www.walmart.com/ip/Kleenex-Ultra-Soft-Facial-Tissues-4-Cube-Boxes-60-Tissues-per-Box-3-Ply-240-Total-Tissues-Packaging-May-Vary/5156000927?from=/search",
+       "picture": "https://i5.walmartimages.com/asr/58ba5b6e-69cd-41f7-b0df-cf7a637ab53a.2b6fda90d3e9e33bb3b5fc8446fbe87c.jpeg?odnHeight=784&amp;odnWidth=580&amp;odnBg=FFFFFF",
+       "source": "walmart",
+       "sales": 3
+     },
+
+     {
+       "name": "Kleenex Expressions Ultra Soft Facial Tissues, 8 Flat Boxes, 120 Tissues per Box, 3-Ply, Packaging May Vary",
+       "price": "19.12",
+       "link": "https://www.walmart.com/ip/Kleenex-Expressions-Ultra-Soft-Facial-Tissues-8-Flat-Boxes-120-Tissues-Per-Box-3-Ply-Packaging-May-Vary/5222921634?from=/search",
+       "picture": "https://i5.walmartimages.com/asr/97d9ceef-0921-4d10-a913-2547b1c8f8fe.4d044ff4496f10875ac33bbe44a1feeb.jpeg?odnHeight=784&odnWidth=580&odnBg=FFFFFF",
+       "source": "walmart",
+       "sales": 1
+     }
+
+   ],
+
+   "phones": [
+     {
+       "name": "Iphone 15",
+       "price": "799",
+       "link": "https://www.apple.com/shop/buy-iphone/iphone-15",
+       "picture": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-finish-select-202309-6-1inch_GEO_US?wid=2560&hei=1440&fmt=p-jpg&qlt=80&.v=1692925264213",
+       "source": "apple",
+       "sales": 100
+     },
+
+     {
+       "name": "Iphone 15",
+       "price": "829",
+       "link": "https://www.amazon.com/Apple-iPhone-128-Unlimited-trade/dp/B0CHBNXW73?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&smid=ATVPDKIKX0DER&th=1",
+       "picture": "https://m.media-amazon.com/images/I/71SK-KD0OwL._AC_SX522_.jpg",
+       "source": "amazon",
+       "sales": 10
+     },
+
+     {
+       "name": "Samsung Galaxy S23",
+       "price": "799",
+       "link": "https://www.samsung.com/us/smartphones/galaxy-s23/buy/galaxy-s23-128gb-unlocked-sm-s911uzkaxaa/",
+       "picture": "https://image-us.samsung.com/us/smartphones/galaxy-s23/configurator/D1_D2-Combo-KV-Configurator-DT-800x600.jpg?$product-details-jpg$",
+       "source": "samsung",
+       "sales": 10
+     },
+
+     {
+       "name": "Samsung Galaxy S23",
+       "price": "759.99",
+       "link": "https://www.amazon.com/SAMSUNG-Factory-Unlocked-Smartphone-Adaptive/dp/B0BLP3ZMZP?th=1",
+       "picture": "https://m.media-amazon.com/images/I/71ZXHg7Oh6L._AC_SX466_.jpg",
+       "source": "amazon",
+       "sales": 10
+     },
+
+     {
+       "name": "Pixel 7",
+       "price": "479.99",
+       "link": "https://www.walmart.com/ip/Google-Pixel-7-GVU6C-128GB-8GB-RAM-50-MP-5G-Snow-Unlocked/1163258434?from=/search",
+       "picture": "https://i5.walmartimages.com/asr/045536cf-8c44-45c2-a447-e9a97a06c209.3336e0391edb207bcf9ea383c9db8849.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF",
+       "source": "walmart",
+       "sales": 34
+     },
+
+     {
+       "name": "Pixel 7",
+       "price": "599",
+       "link": "https://store.google.com/us/config/pixel_7?pli=1&hl=en-US&selections=eyJwcm9kdWN0RmFtaWx5IjoiY0dsNFpXeGZOdz09IiwidmFyaWFudHMiOltbIjIiLCJNZz09Il0sWyIxIiwiTVRJNCJdXX0%3D",
+       "picture": "https://lh3.googleusercontent.com/8XsOhYb3FF1wHrjn5vYr4kktyKpxyH4MnBIFai0_Ulesy7zA-30f5YUFH2cotlDKQcMWBiEQgFFFZmAAYXAadHQdnlmCUsWWRg=s1400-w1400-e365-rp",
+       "source": "Google",
+       "sales": 12
+     }
+
+   ],
+
+   "refrigerators": [
+     {
+       "name": "Café™ ENERGY STAR® 22.3 Cu. Ft. Smart Counter-Depth 4-Door French-Door Refrigerator",
+       "price": "4319",
+       "link": "https://www.homedepot.com/p/Cafe-22-3-cu-ft-Smart-Four-Door-French-Door-Refrigerator-in-Matte-Black-Counter-Depth-CXE22DP3PD1/319341307",
+       "picture": "https://cdn11.bigcommerce.com/s-dj46qhetxl/images/stencil/640w/products/137130/302285/431487f0440d8bcf4e09db043b6dc51de9cafaa1__01090.1679116837.jpg?c=1",
+
+       "source": "home depot",
+       "sales": 20
+
+     },
+
+     {
+       "name": "Café™ ENERGY STAR® 22.3 Cu. Ft. Smart Counter-Depth 4-Door French-Door Refrigerator",
+       "price": "4799",
+       "link": "https://www.cafeappliances.com/appliance/Cafe-ENERGY-STAR-22-3-Cu-Ft-Smart-Counter-Depth-4-Door-French-Door-Refrigerator-CXE22DP3PD1",
+       "picture": "https://cdn11.bigcommerce.com/s-dj46qhetxl/images/stencil/640w/products/137130/302285/431487f0440d8bcf4e09db043b6dc51de9cafaa1__01090.1679116837.jpg?c=1",
+
+       "source": "cafe",
+       "sales": 10
+     },
+
+
+     {
+       "name": "Bespoke 4-Door French Door Refrigerator (29 cu. ft.) - with Top Left and Family Hub™ Panel in Charcoal Glass - and Matte Black Steel Middle and Bottom Door Panels",
+       "price": "2899",
+       "link": "https://www.samsung.com/us/home-appliances/refrigerators/bespoke/bespoke-4-door-french-door-refrigerator-29-cu-ft-with-top-left-and-family-hub--panel-in-charcoal-glass---and-matte-black-steel-middle-and-bottom-door-panels-rf29bb89008maa/",
+       "picture": "https://image-us.samsung.com/SamsungUS/home/home-appliances/refrigerators/bespoke/counter-depth/06202022/rf29bb89008maa/RF29BB89008M_01_Charcoal_Glass_Matte_Black_Steel_SCOM.jpg?$product-details-jpg$",
+       "source": "samsung",
+       "sales": 1
+     },
+
+     {
+       "name": "Bespoke 4-Door French Door Refrigerator (29 cu. ft.) - with Top Left and Family Hub™ Panel in Charcoal Glass - and Matte Black Steel Middle and Bottom Door Panels",
+       "price": "2898",
+       "link": "https://www.samsung.com/us/home-appliances/refrigerators/bespoke/bespoke-4-door-french-door-refrigerator-29-cu-ft-with-top-left-and-family-hub--panel-in-charcoal-glass---and-matte-black-steel-middle-and-bottom-door-panels-rf29bb89008maa/",
+       "picture": "https://image-us.samsung.com/SamsungUS/home/home-appliances/refrigerators/bespoke/counter-depth/06202022/rf29bb89008maa/RF29BB89008M_01_Charcoal_Glass_Matte_Black_Steel_SCOM.jpg?$product-details-jpg$",
+       "source": "home depot",
+       "sales": 13
+
+     },
+
+     {
+       "name": "33-inches wide Bottom-Freezer Refrigerator with SpillGuard™ Glass Shelves - 22 cu. ft",
+       "price": "1398",
+       "link": "https://www.homedepot.com/p/Whirlpool-22-cu-ft-Bottom-Freezer-Refrigerator-in-Stainless-Steel-with-Spill-Guard-Glass-Shelves-WRB322DMBM/205065350",
+       "picture": "https://kitchenaid-h.assetsadobe.com/is/image/content/dam/global/whirlpool/refrigeration/refrigerator/images/hero-WRB322DMBM.tif",
+
+       "source": "home depot",
+       "sales": 4
+
+     },
+
+     {
+       "name": "33-inches wide Bottom-Freezer Refrigerator with SpillGuard™ Glass Shelves - 22 cu. ft",
+       "price": "1799",
+       "link": "https://www.whirlpool.com/kitchen/refrigeration/refrigerators/bottom-freezer/p.33-inches-wide-bottom-freezer-refrigerator-with-spillguard-glass-shelves-22-cu.-ft.wrb322dmbm.html",
+       "picture": "https://kitchenaid-h.assetsadobe.com/is/image/content/dam/global/whirlpool/refrigeration/refrigerator/images/hero-WRB322DMBM.tif",
+       "source": "Whirlpool",
+       "sales": 4
+     }
+
+   ],
+
+   "batteries":[
+    {
+      "name": "Energizer Alkaline Power AAA Batteries (32 Pack), Long-Lasting Triple A Batteries",
+      "type": "Energizer AAA Alkaline Batteries",
+      "price": "22.51",
+      "unit-price": "0.7034",
+      "link": "https://www.amazon.com/Energizer-Batteries-Triple-Long-Lasting-Alkaline/dp/B09RTVN5GN/ref=sxin_16_pa_sp_search_thematic_sspa?content-id=amzn1.sym.f1ae5671-a572-4614-89aa-2c9d534241e0%3Aamzn1.sym.f1ae5671-a572-4614-89aa-2c9d534241e0&crid=14W3HJUSGGB31&cv_ct_cx=batteries&keywords=batteries&pd_rd_i=B09RTVN5GN&pd_rd_r=a7919718-8c6b-4e23-86b3-9078cec61a98&pd_rd_w=5sCf8&pd_rd_wg=lW4LU&pf_rd_p=f1ae5671-a572-4614-89aa-2c9d534241e0&pf_rd_r=9EGJ31SPVSE2XX6BZA5N&qid=1701124954&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=batteries%2Caps%2C73&sr=1-1-ac07dfd7-5f37-4797-bcf7-0f4905c82761-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&psc=1",
+      "picture": "https://m.media-amazon.com/images/I/91ass+ZYjcL._AC_UL320_.jpg",
+      "source": "amazon",
+      "sales": 18
+    },
+
+    {
+      "name": "Energizer AA Batteries, Alkaline Power Double A Battery Alkaline, 32 Count",
+      "type": "Energizer AA Alkaline Batteries",
+      "price": "23.98",
+      "unit-price": "0.7493",
+      "link": "https://www.amazon.com/Energizer-Batteries-Double-Long-Lasting-Alkaline/dp/B09RTVD1GF/ref=sr_1_9?crid=14W3HJUSGGB31&keywords=batteries&qid=1701294304&sprefix=batteries%2Caps%2C73&sr=8-9",
+      "picture": "https://m.media-amazon.com/images/I/91-R5huHLnL._AC_SX679_.jpg",
+      "source": "amazon",
+      "sales": 101
+    },
+
+    {
+      "name": "Energizer MAX AAA Batteries (16 Pack), Triple A Alkaline Batteries",
+      "type": "Energizer AAA Alkaline Batteries",
+      "price": "10.00",
+      "unit-price": "0.625",
+      "link": "https://www.walmart.com/ip/Energizer-MAX-AAA-Batteries-16-Pack-Triple-A-Alkaline-Batteries/16419725?athbdg=L1800&from=/search",
+      "picture": "https://i5.walmartimages.com/seo/Energizer-MAX-AAA-Batteries-16-Pack-Triple-A-Alkaline-Batteries_d2da9074-bb39-4e99-a559-df9035fb0eda.818b7e8af7165a06d358051022da69a9.jpeg?odnHeight=2000&amp;odnWidth=2000&amp;odnBg=FFFFFF",
+      "source": "walmart",
+      "sales": 10
+    },
+
+    {
+      "name": "Energizer AA Batteries, Double A Long-Lasting Alkaline Power Batteries, 32 Count",
+      "type": "Energizer AA Alkaline Batteries",
+      "price": "30.00",
+      "unit-price": "0.9375",
+      "link": "https://www.walmart.com/ip/Energizer-AA-Batteries-Double-A-Long-Lasting-Alkaline-Power-Batteries-32-Count-Pack-of-1/3832040892?from=/search",
+      "picture": "https://i5.walmartimages.com/seo/Energizer-AA-Batteries-Double-A-Long-Lasting-Alkaline-Power-Batteries-32-Count-Pack-of-1_7bcbc32d-771c-47ce-aaa8-e3b228fb9837.3115c4e11f9680c18b2f9c301cefe213.jpeg?odnHeight=640&amp;odnWidth=640&amp;odnBg=FFFFFF",
+      "source": "walmart",
+      "sales": 10
+    },
+
+    {
+      "name": "Energizer Max AA Batteries - Alkaline Battery - 24pk",
+      "type": "Energizer AA Alkaline Batteries",
+      "price": "18.49",
+      "unit-price": "0.77041",
+      "link": "https://www.target.com/p/energizer-max-aa-batteries-alkaline-battery/-/A-88830890?preselect=86500007#lnk=sametab",
+      "picture": "https://target.scene7.com/is/image/Target/GUEST_20e1d0b9-a051-4e46-8e67-7fd717598cb4?wid=800&amp;hei=800&amp;qlt=80&amp;fmt=pjpeg",
+      "source": "target",
+      "sales": 10
+    },
+
+    {
+      "name": "Energizer Max AAA Batteries - Alkaline Battery - 24pk",
+      "type": "Energizer AAA Alkaline Batteries",
+      "price": "16.79",
+      "unit-price": "0.69958",
+      "link": "https://www.target.com/p/energizer-max-aaa-batteries-alkaline-battery/-/A-88831810?preselect=86500008#lnk=sametab",
+      "picture": "https://target.scene7.com/is/image/Target/GUEST_1a4e60c2-8fe2-48e0-a1a8-5d65fbd36e8b?wid=800&amp;hei=800&amp;qlt=80&amp;fmt=pjpeg",
+      "source": "target",
+      "sales": 10
+    }
+   ],
+
+   "tide": [
+    {
+      "name": "Tide Original 102 Loads, Powder Laundry Detergent, 143 oz",
+      "type": "Tide Powder Laundry Detergent",
+      "price": "22.94",
+      "unit-price": "0.1604",
+      "unit": "oz",
+      "link": "https://www.walmart.com/ip/Tide-Original-102-Loads-Powder-Laundry-Detergent-143-oz/21675361?from=/search",
+      "picture": "https://i5.walmartimages.com/seo/Tide-Original-102-Loads-Powder-Laundry-Detergent-143-oz_cbe516e2-d08f-4877-8b4e-bb41697db03f.bc6a0d8e002ac310db6154bbff2f3f7f.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF",
+      "source": "walmart",
+      "sales": 10
+    },
+
+    {
+      "name": "Tide To Go Instant Stain Remover Pen and Laundry Spot Cleaner, Travel Size Stain Sticks, 3 Count",
+      "type": "Tide To Go Instant Stain Remover Pen",
+      "price": "7.88",
+      "unit-price": "2.6267",
+      "unit": "each",
+      "link": "https://www.walmart.com/ip/Tide-To-Go-Instant-Stain-Remover-Pen-and-Laundry-Spot-Cleaner-Travel-Size-Stain-Sticks-3-Count/3926049795?adsRedirect=true",
+      "picture": "https://i5.walmartimages.com/seo/Tide-To-Go-Instant-Stain-Remover-Pen-and-Laundry-Spot-Cleaner-Travel-Size-Stain-Sticks-3-Count_44796ddb-5821-4378-8596-f913d807cc85.be7b740fb1c89b5bd8e16e82f69c0f5a.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF",
+      "source": "walmart",
+      "sales": 101
+    },
+
+    {
+      "name": "Tide Ultra Oxi Liquid Laundry Detergent, 24 Loads, 37 fl oz",
+      "type": "Tide Ultra Oxi Liquid Laundry Detergent",
+      "price": "5.44",
+      "unit-price": "0.14702",
+      "unit": "floz",
+      "link": "https://www.walmart.com/ip/Tide-Ultra-Oxi-Liquid-Laundry-Detergent-24-Loads-37-fl-oz/370162915?athbdg=L1600&from=/search",
+      "picture": "https://i5.walmartimages.com/seo/Tide-Ultra-Oxi-Liquid-Laundry-Detergent-24-Loads-37-fl-oz_e2de5f5a-271c-4e0c-baab-93e31914c5e6.5c3e63f8994de4a59c8b2a31945178bb.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF",
+      "source": "walmart",
+      "sales": 10
+    },
+
+    {
+      "name": "Tide Simply Liquid Laundry Detergent, Refreshing Breeze, 184 fl oz",
+      "type": "Tide Simply Liquid Laundry Detergent",
+      "price": "13.94",
+      "unit-price": "0.07576",
+      "unit": "floz",
+      "link": "https://www.walmart.com/ip/Tide-Simply-Liquid-Laundry-Detergent-Refreshing-Breeze-184-fl-oz/1518682256?athbdg=L1102&from=/search",
+      "picture": "https://i5.walmartimages.com/seo/Tide-Simply-Liquid-Laundry-Detergent-Refreshing-Breeze-184-fl-oz_4a2f745a-f700-486b-90de-bc23c9597c76.2fc4f7ed3686954f371ad24f2dd42fea.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF",
+      "source": "walmart",
+      "sales": 10
+    },
+
+    {
+      "name": "Tide Pods Laundry Detergent Soap Packs with Ultra Oxi, 85 Ct",
+      "type": "Tide Pods Laundry Detergent Soap Packs with Ultra Oxi",
+      "price": "27.24",
+      "unit-price": "0.32",
+      "unit": "each",
+      "link": "https://www.walmart.com/ip/Tide-Pods-Laundry-Detergent-Soap-Packs-with-Ultra-Oxi-85-Ct/456559121?adsRedirect=true",
+      "picture": "https://i5.walmartimages.com/seo/Tide-Pods-Laundry-Detergent-Soap-Packs-with-Ultra-Oxi-85-Ct_c87891e0-c166-422a-8f2e-2753e9263f83.a67d3bdc2003d55a8152d854512f7f76.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF",
+      "source": "walmart",
+      "sales": 10
+    },
+
+
+
+
+    {
+      "name": "Tide Powder Laundry Detergent Original, 143 Ounce",
+      "type": "Tide Powder Laundry Detergent",
+      "price": "21.79",
+      "unit-price": "0.1524",
+      "unit": "oz",
+      "link": "https://www.amazon.com/Tide-Powder-Laundry-Detergent-Original/dp/B009P7XHWW/ref=sr_1_1?crid=3OG45LYSZV4KC&keywords=Tide+Original+102+Loads%2C+Powder+Laundry+Detergent%2C+143+oz&qid=1701641945&sprefix=tide+original+102+loads%2C+powder+laundry+detergent%2C+143+oz%2Caps%2C101&sr=8-1",
+      "picture": "https://m.media-amazon.com/images/I/81oh4IFLXfL._AC_SX679_.jpg",
+      "source": "amazon",
+      "sales": 10
+    },
+
+    {
+      "name": "Tide To Go Instant Travel Stain Remover Pen, Rescue Clothes From Blood, Wine and other Tough Stains, 5 Count (Pack of 1)",
+      "type": "Tide To Go Instant Stain Remover Pen",
+      "price": "13.25",
+      "unit-price": "2.65",
+      "unit": "each",
+      "link": "https://www.amazon.com/Tide-Instant-Travel-Remover-Clothes/dp/B0CGL1CNZK/ref=sr_1_5?crid=23FMVMMH6F995&keywords=ide+To+Go+Instant+Stain+Remover+Pen&qid=1701642873&rdc=1&sprefix=ide+to+go+instant+stain+remover+pen+%2Caps%2C86&sr=8-5",
+      "picture": "https://m.media-amazon.com/images/I/81c1qhDzAML._AC_SX679_.jpg",
+      "source": "amazon",
+      "sales": 10
+    },
+
+    {
+      "name": "Tide Ultra Oxi Liquid Laundry Detergent, 29 loads, 46 fl oz, HE Compatible",
+      "type": "Tide Ultra Oxi Liquid Laundry Detergent",
+      "price": "24.99",
+      "unit-price": "0.54326",
+      "unit": "floz",
+      "link": "https://www.amazon.com/Tide-Ultra-OXI-Laundy-Detergent/dp/B07DMRT388/ref=sr_1_4?crid=1DA19HN62BB75&keywords=Tide+Ultra+Oxi+Liquid+Laundry+Detergent%2C+24+Loads%2C+37+fl+oz&qid=1701643080&sprefix=tide+ultra+oxi+liquid+laundry+detergent%2C+24+loads%2C+37+fl+oz%2Caps%2C71&sr=8-4",
+      "picture": "https://m.media-amazon.com/images/I/81czAdDJz7L._AC_SX679_.jpg",
+      "source": "amazon",
+      "sales": 10
+    },
+
+    {
+      "name": "Tide Simply Liquid Laundry Detergent, Refreshing Breeze, 184 Oz, 128 Loads",
+      "type": "Tide Simply Liquid Laundry Detergent",
+      "price": "13.94",
+      "unit-price": "0.07576",
+      "unit": "floz",
+      "link": "https://www.amazon.com/Tide-Simply-Laundry-Detergent-Refreshing/dp/B0CD1DTFSQ/ref=sr_1_5?crid=3091OR742OAHB&keywords=Tide+Simply+Liquid+Laundry+Detergent%2C+Refreshing+Breeze%2C+184+fl+oz&qid=1701643400&sprefix=tide+simply+liquid+laundry+detergent%2C+refreshing+breeze%2C+184+fl+oz%2Caps%2C80&sr=8-5",
+      "picture": "https://m.media-amazon.com/images/I/61zwByyooQL._AC_SX679_.jpg",
+      "source": "amazon",
+      "sales": 14
+    },
+
+    {
+      "name": "Tide PODS Liquid Laundry Detergent Soap Pacs, 4-n-1 Ultra Oxi, HE Compatible 85 Count, Built in Pre-Treater for Stains",
+      "type": "Tide Pods Laundry Detergent Soap Packs with Ultra Oxi",
+      "price": "27.24",
+      "unit-price": "0.32",
+      "unit": "each",
+      "link": "https://www.amazon.com/Askshy-Laundry-Detergent-Compatible-Pre-Treater/dp/B0B1PGR1LZ/ref=sr_1_3?crid=3GNZ6EH4MCDS6&keywords=Tide%2BPods%2BLaundry%2BDetergent%2BSoap%2BPacks%2Bwith%2BUltra%2BOxi%2C%2B85%2BCt&qid=1701643553&rdc=1&sprefix=tide%2Bpods%2Blaundry%2Bdetergent%2Bsoap%2Bpacks%2Bwith%2Bultra%2Boxi%2C%2B85%2Bct%2Caps%2C109&sr=8-3&th=1",
+      "picture": "https://m.media-amazon.com/images/I/61ROfoA8h0L._AC_SX679_.jpg",
+      "source": "amazon",
+      "sales": 10
+    },
+
+
+
+
+    {
+      "name": "Tide Pods with Ultra Oxi HE Laundry Detergent Pods, 104-count",
+      "type": "Tide Pods Laundry Detergent Soap Packs with Ultra Oxi",
+      "price": "23.39",
+      "unit-price": "0.2249",
+      "unit": "each",
+      "link": "https://www.costco.com/tide-pods-with-ultra-oxi-he-laundry-detergent-pods%2c-104-count.product.100645584.html",
+      "picture": "https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&itemId=2247022-847&recipeName=680",
+      "source": "costco",
+      "sales": 10
+    },
+
+
+
+
+    {
+      "name": "Tide Pods Ultra Oxi Laundry Detergent Pacs, 85ct",
+      "type": "Tide Pods Laundry Detergent Soap Packs with Ultra Oxi",
+      "price": "27.49",
+      "unit-price": "0.3234",
+      "unit": "each",
+      "link": "https://www.target.com/p/tide-pods-ultra-oxi-laundry-detergent-pacs/-/A-79394309?preselect=84114528#lnk=sametab",
+      "picture": "https://target.scene7.com/is/image/Target/GUEST_d3746eb9-a2d8-4487-abad-a91a82d68c68?wid=800&hei=800&qlt=80&fmt=pjpeg",
+      "source": "target",
+      "sales": 10
+    },
+
+    {
+      "name": "Tide Turbo High Efficiency Powder Laundry Detergent - Original",
+      "type": "Tide Powder Laundry Detergent",
+      "price": "27.99",
+      "unit-price": "0.1656",
+      "unit": "floz",
+      "link": "https://www.target.com/p/tide-turbo-high-efficiency-powder-laundry-detergent-original/-/A-79394257?preselect=84704409#lnk=sametab",
+      "picture": "https://target.scene7.com/is/image/Target/GUEST_25e0ca37-e2ca-4f26-9230-a4be6f9478b0?wid=800&hei=800&qlt=80&fmt=pjpeg",
+      "source": "target",
+      "sales": 10
+    },
+
+    {
+      "name": "Tide To Go Stain Remover Pen, 3ct",
+      "type": "Tide To Go Instant Stain Remover Pen",
+      "price": "7.99",
+      "unit-price": "2.66333",
+      "unit": "each",
+      "link": "https://www.target.com/p/tide-to-go-stain-remover-pen/-/A-79390158?preselect=15225976#lnk=sametab",
+      "picture": "https://target.scene7.com/is/image/Target/GUEST_841e8113-fa3f-4a28-9533-3c503d0a8f57?wid=800&hei=800&qlt=80&fmt=pjpeg",
+      "source": "target",
+      "sales": 10
+    },
+    
+    {
+      "name": "Tide Simply Refreshing Breeze Liquid Laundry Detergent - Clean & Fresh",
+      "type": "Tide Simply Liquid Laundry Detergent",
+      "price": "13.99",
+      "unit-price": "0.76032",
+      "unit": "floz",
+      "link": "https://www.target.com/p/tide-simply-refreshing-breeze-liquid-laundry-detergent-clean-fresh/-/A-79394314?preselect=88082201#lnk=sametab",
+      "picture": "https://target.scene7.com/is/image/Target/GUEST_652b2cf6-c644-4e02-9996-93f039f55a2c?wid=800&hei=800&qlt=80&fmt=pjpeg",
+      "source": "target",
+      "sales": 10
+    },
+
+    {
+      "name": "Tide Ultra Oxi Liquid Detergent, 24 Loads, 37 OZ",
+      "type": "Tide Ultra Oxi Liquid Laundry Detergent",
+      "price": "8.29",
+      "unit-price": "0.22405",
+      "unit": "floz",
+      "link": "https://www.cvs.com/shop/tide-ultra-oxi-liquid-detergent-24-loads-37-oz-prodid-1010848",
+      "picture": "https://www.cvs.com/bizcontent/merchandising/productimages/large_im6x6/37000752684_2.jpg?im=Resize=(600,600)",
+      "source": "cvs",
+      "sales": 10
+
+    }
+
+    
+
+    
+
+   ],
+
+   "earphones":[
+      {
+      "name": "NEW Bose QuietComfort Ultra Wireless Noise Cancelling Headphones with Spatial Audio, Over-the-Ear Headphones with Mic, Up to 24 Hours of Battery Life, Black",
+      "type": "Bose QuietComfort Ultra",
+      "price": "379",
+      "unit-price": "379",
+      "unit": "each",
+      "link": "https://www.amazon.com/Bose-QuietComfort-Wireless-Cancelling-Headphones/dp/B0CCZ1L489/?_encoding=UTF8&pd_rd_w=Avjav&content-id=amzn1.sym.03bef33a-a357-4fe3-9505-7fd4d6236957%3Aamzn1.symc.8b620bc3-61d8-46b3-abd9-110539785634&pf_rd_p=03bef33a-a357-4fe3-9505-7fd4d6236957&pf_rd_r=AEQYSVMYP2H5WXJ0VA21&pd_rd_wg=8opSk&pd_rd_r=e84b2504-9719-42b9-832d-9ba325d33d64&ref_=pd_gw_ci_mcx_mr_hp_d&th=1",
+      "picture": "https://m.media-amazon.com/images/I/51NC9ErIQtL._AC_SX679_.jpg",
+      "source": "amazon",
+      "sales": 20
+
+    }
+   ],
+
+    "proteins":[
+    {
+      "name": "Optimum Nutrition Gold Standard 100% Whey Protein Powder, Chocolate Hazelnut, 2 Pound",
+      "type": "Gold Standard 100% Whey Protein Powder, Chocolate Hazelnut",
+      "price": "44.99",
+      "unit-price": "22.495",
+      "unit": "lb",
+      "link": "https://www.amazon.com/Optimum-Nutrition-Standard-Chocolate-Hazelnut/dp/B07FL5NVJZ?pd_rd_w=AZbf5&content-id=amzn1.sym.d7b2d8b5-a4a1-4936-94ee-0a973f84d4dc&pf_rd_p=d7b2d8b5-a4a1-4936-94ee-0a973f84d4dc&pf_rd_r=QQ3JRT9BNBHG0NEYZYET&pd_rd_wg=q6LKf&pd_rd_r=ad32c211-5ec5-448a-894c-c52b8fefb726&pd_rd_i=B07FL5NVJZ&ref_=pd_bap_d_grid_rp_0_1_ec_pd_gwd_bag_pd_gw_rp_4_i&th=1",
+      "picture": "https://m.media-amazon.com/images/I/613vnvYHveL._AC_SX679_.jpg",
+      "source": "amazon",
+      "sales": 20
+      
+    }
+   ],
+
+   "tooth":[
+    {
+      "name": "Colgate Total Whitening Toothpaste, 10 Benefits, No Trade-Offs, Freshens Breath, Whitens Teeth and Provides Sensitivity Relief, Mint Flavor, 4 Pack, 5.1 Oz Tubes",
+      "type": "Colgate Total Whitening Toothpaste",
+      "price": "15.84",
+      "unit-price": "0.78",
+      "unit": "oz",
+      "link": "https://www.amazon.com/Colgate-Whitening-Toothpaste-Trade-Offs-Sensitivity/dp/B0BLWLL3FV/ref=sxin_16_pa_sp_search_thematic_sspa?content-id=amzn1.sym.e0f7d8e5-6c81-4b07-b83b-2ec00eebe75e%3Aamzn1.sym.e0f7d8e5-6c81-4b07-b83b-2ec00eebe75e&crid=8TFUG8TY8A7U&cv_ct_cx=tooth&keywords=tooth&pd_rd_i=B0BLWLL3FV&pd_rd_r=7091a6d8-5459-439c-b4b8-aa3819c2e59c&pd_rd_w=Pacex&pd_rd_wg=0cTU4&pf_rd_p=e0f7d8e5-6c81-4b07-b83b-2ec00eebe75e&pf_rd_r=QZXEHZP1C6RMKZXVZE4P&qid=1701709521&rdc=1&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=tooth%2Caps%2C89&sr=1-3-2c727eeb-987f-452f-86bd-c2978cc9d8b9-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&th=1",
+      "picture": "https://m.media-amazon.com/images/I/817DezBZwUL._SX679_.jpg",
+      "source": "amazon",
+      "sales": 100
+    }
+   ]
+ 
+}

@@ -1,0 +1,255 @@
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+  background-color: #fff;
+  padding-top: 60px; 
+}
+
+.container {
+position: relative; 
+display: flex;
+height: 100vh; 
+min-height: 100%; 
+}
+
+.left-half, .right-half {
+overflow-y: auto; 
+height: 100%; 
+background-color: #f3ebdb; 
+}
+
+.left-half {
+flex: 0 0 100%; /* 70% of the container's width */
+
+}
+
+.right-half {
+flex: 0 0 30%; /* 30% of the container's width */
+}
+
+.centered-heading {
+display: flex;
+justify-content: center; /* Centers horizontally */
+align-items: center;
+height: 50px; /* Adjust the height as needed */
+}
+
+.left-half h1, .right-half h1 {
+margin: 0; /* Removes default margin of h1 for better centering */
+}
+
+/* Delineates left and right half by a black vertical bar: */
+
+.container::after {
+content: "";
+position: absolute;
+left: 100%; 
+top: 0;
+bottom: 0; 
+width: 2px;
+background-color: #000;
+z-index: 10;
+}
+
+/* The following is all Navbar styling */
+
+.navbar {
+display: flex;
+justify-content: space-between;
+align-items: center;
+background-color: #93c39b;
+padding: 10px 20px;
+position: fixed;
+width: 100%;
+top: 0;
+border-bottom: 1px solid #ddd;
+box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+z-index: 1000;
+}
+
+.navbar-brand {
+  font-size: 24px;
+  font-weight: bold;
+  color: #000;
+}
+
+.nav-items {
+  display: flex;
+  list-style: none;
+}
+
+.navbar-actions {
+display: flex;
+align-items: center;
+}
+
+.nav-items li a {
+display: inline-block; /* Allows padding and border-radius to be applied */
+padding: 8px 16px; /* Padding to control the shape size */
+margin: 0 25px; /* Controls spacing between each item */
+font-size: 16px;
+text-decoration: none;
+color: #000;
+background-color: #808f85; /* Light green/grey background, change as needed */
+border-radius: 20px; /* This creates the oval shape */
+transition: color 0.3s ease, background-color 0.3s ease;
+}
+
+.nav-items li a:hover {
+color: #007bff;
+background-color: #d0d0d0; /* White background on hover */
+}
+
+/* The following is the Settings Icon & Panel CSS */
+
+.navbar-actions .fa-cog {
+margin-right: 8px;
+}
+
+.navbar-actions .settings-btn {
+font-size: 20px; /* Size of the cog icon */
+background: none;
+border: none;
+cursor: pointer;
+color: #000; /* Icon color */
+margin-right: 50px; /* Space between the settings and login button */
+display: flex;
+align-items: center; /* Aligns the icon vertically */
+padding: 0; /* Adjust padding as necessary */
+}
+
+.navbar-actions .settings-btn:hover {
+color: #007bff; /* Change color on hover, adjust as needed */
+}
+
+.settings-panel {
+  width: 250px; /* Adjust width as needed */
+  height: 100%;
+  position: fixed;
+  top: 0;
+  right: -260px; /* Slightly more than the width to ensure it's fully off-screen */
+  background-color: #f9f9f9; /* Background color of the panel */
+  box-shadow: -2px 0 5px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  box-sizing: border-box; /* Include padding and border in the width calculation */
+  z-index: 1500; /* Make sure it's above other content */
+  transition: right 0.3s; /* Smooth transition for sliding in/out */
+}
+
+.close-settings {
+  font-size: 24px; /* Large 'X' symbol */
+  background: none;
+  border: none;
+  cursor: pointer;
+  position: absolute;
+  top: 10px; 
+  right: 10px; 
+  color: #000; 
+}
+
+.close-settings:hover {
+  color: #ff0000; 
+}
+
+/* Dark/Light Theme */
+#theme-btn {
+font-size: 1.5rem;
+cursor: pointer;
+color: #596AFF;
+}
+#theme-btn:hover {
+color: #BB86FC;
+}
+.changeTheme {
+background: #01172f;
+color: #eee;
+}
+.initalTheme {
+color: #fff;
+}
+
+/* Search Bar Styling */
+
+.search-container {
+display: flex;
+justify-content: flex-start; /* Aligns the search bar to the left */
+padding: 50px; 
+padding-left: 130px; /* Adds more space on the left side */
+}
+
+#search-input {
+padding: 10px 15px;
+font-size: 16px;
+border: 2px solid #ddd;
+border-radius: 25px;
+outline: none;
+width: 700px; 
+margin-right: 10px; /* Adds space between the input and the button */
+}
+
+#search-input:focus {
+border-color: #aaa;
+}
+
+#search-button {
+padding: 10px;
+border: none;
+border-radius: 25px;
+background-color: #7696cc;
+color: white;
+font-size: 16px;
+cursor: pointer;
+outline: none;
+
+}
+
+#search-button:hover {
+background-color: #517ec9;
+}
+
+#search-button i { /* Styling for the icon */
+font-size: 16px;
+}
+
+/* Initial Screen Code */
+
+.initial-screen {
+height: 100vh; /* Full viewport height */
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: center;
+background-color: #fff; /* Or any color/background image you prefer */
+}
+
+.initial-screen .content h1 {
+margin: 0;
+font-size: 2em;
+}
+
+.initial-screen .content p {
+margin-top: 20px;
+font-size: 1.2em;
+}
+
+.main-content {
+display: none;
+
+}
+
+.block {
+ float: left;
+ height: 330px;
+ width: 330px;
+ align-items: left;
+}
+
+
+.pics{
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+
+/* After .initial-screen is faded out, .main-content should become visible */
